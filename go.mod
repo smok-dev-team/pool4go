@@ -1,3 +1,3 @@
-module github.com/smartwalle/pool4go
+module github.com/smok-dev-team/pool4go
 
 go 1.12
